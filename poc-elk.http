@@ -1,0 +1,6 @@
+@idp_elk_HostAddress = http://localhost:5105
+
+GET {{idp_elk_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
